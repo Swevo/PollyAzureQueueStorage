@@ -1,0 +1,4 @@
+<Solution>
+  <Folder Name="/src/"><Project Path="src/PollyAzureQueueStorage/PollyAzureQueueStorage.csproj" /></Folder>
+  <Folder Name="/tests/"><Project Path="tests/PollyAzureQueueStorage.Tests/PollyAzureQueueStorage.Tests.csproj" /></Folder>
+</Solution>
