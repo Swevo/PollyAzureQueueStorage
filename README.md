@@ -1,9 +1,10 @@
-﻿# PollyAzureQueueStorage
+# PollyAzureQueueStorage
 
 [![NuGet](https://img.shields.io/nuget/v/PollyAzureQueueStorage.svg)](https://www.nuget.org/packages/PollyAzureQueueStorage/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/PollyAzureQueueStorage.svg)](https://www.nuget.org/packages/PollyAzureQueueStorage/)
 [![CI](https://github.com/Swevo/PollyAzureQueueStorage/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/PollyAzureQueueStorage/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![.NET 10 Ready](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)](#)
 
 **Polly v8 resilience pipelines for Azure Queue Storage** — retry, timeout, and circuit-breaker for QueueClient operations.
 
